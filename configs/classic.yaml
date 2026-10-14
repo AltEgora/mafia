@@ -1,0 +1,6 @@
+# Классический набор — то же, что без --roles-config.
+roles:
+  mafia: auto      # floor(N/3), но не меньше 1
+  commissar: 1
+  doctor: 1
+  maniac: 1
